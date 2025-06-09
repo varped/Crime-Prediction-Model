@@ -18,7 +18,7 @@ Click on Crime_Prediction_Project_CLEANED.ipynb in this repository and download 
 - Run all cells in order to reproduce the full analysis and predictions.
   
 ## Libraries Used
-- Pandas, GeoPandas, scikit-learn, XGBoost, SHAP, OSMnx
+- Pandas, GeoPandas, scikit-learn, BERT/SentenceTransformer, XGBoost, SHAP, OSMnx
 
 ## Contributors
 - Ethan Hershman
