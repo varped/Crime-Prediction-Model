@@ -6,7 +6,11 @@ This repository contains the Jupyter notebook for our ECS 111 Final Project. We 
 ## Files
 - `Crime_Prediction_Project_CLEANED.ipynb`: Full modeling pipeline with cleaned dataset, EDA, and building predictive model
 - `Crime_Prediction_HeatMap_Final`: A visual and interactive heatmap of the crime predictions in SF based on our best predictive model.
-- Access to our Interactive HeatMap based on our Model: (https://varped.github.io/Crime-Prediction-Model/Crime_Prediction_HeatMap_Final.html) 
+- Access to our Interactive HeatMap based on our Model: (https://varped.github.io/Crime-Prediction-Model/Crime_Prediction_HeatMap_Final.html)
+- 'Cleaned and Revised Dataset (Dataset used for Project)': https://drive.google.com/file/d/1_1DZoQpK4EIzCo-jnSZLo1UD_JqDoEbF/view?usp=drive_link
+- Datasets used for Project:
+SF Crime Data: https://data.sfgov.org/Public-Safety/SF-Crime-Heat-Map/q6gg-sa2p
+SF Weather Data: https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
 
 ## How to Run the Code
 You can run the notebook by following these steps:
