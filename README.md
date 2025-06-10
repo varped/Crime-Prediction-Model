@@ -8,7 +8,7 @@ This repository contains the Jupyter notebook for our ECS 111 Final Project. We 
 - `Crime_Prediction_HeatMap_Final`: A visual and interactive heatmap of the crime predictions in SF based on our best predictive model.
 - `Access to our Interactive HeatMap based on our Model`: (https://varped.github.io/Crime-Prediction-Model/Crime_Prediction_HeatMap_Final.html)
 - `Cleaned and Revised Dataset (Dataset used for Model)`: https://drive.google.com/file/d/1_1DZoQpK4EIzCo-jnSZLo1UD_JqDoEbF/view?usp=drive_link
-- Public Datasets:
+- `Public Datasets`:
 
 SF Crime Data: https://data.sfgov.org/Public-Safety/SF-Crime-Heat-Map/q6gg-sa2p
 
