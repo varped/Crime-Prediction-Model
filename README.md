@@ -25,8 +25,3 @@ Click on Crime_Prediction_Project_CLEANED.ipynb in this repository and download 
   
 ## Libraries Used
 - Pandas, GeoPandas, scikit-learn, BERT/SentenceTransformer, XGBoost, SHAP, OSMnx
-
-## Contributors
-- Ethan Hershman
-- Michelle Lin
-- Varshini Peddinti
